@@ -1,0 +1,80 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: #9f9f9f;
+  width: 253px;
+  height: 414px;
+}
+.card__top {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.oferta {
+  background-color: #fef6e7;
+  border-radius: 6px;
+  padding: 10px 20px 10px 20px;
+  font-weight: 700;
+  font-size: 14px;
+  color: #fbb900;
+}
+.card__nome {
+  width: 145px;
+
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+  align-self: center;
+  text-transform: uppercase;
+  padding-top: 10px;
+  color: #4d4d4d;
+}
+.card__oferta {
+  text-align: center;
+  align-self: center;
+  padding-top: 14px;
+}
+.card__preco {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+  color: #4d4d4d;
+  padding-top: 4px;
+}
+.card__promo {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #fbb900;
+}
+.card__assinante {
+  color: #4d4d4d;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+}
+.bt__add {
+  width: 220px;
+  height: 48px;
+  padding: 12px 56px 12px 56px;
+  background: #fbb900;
+  border-radius: 10px;
+  border: none;
+  align-self: center;
+  color: white;
+  font-weight: 900;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: "Poppins";
+  font-style: normal;
+  margin-top: 14px;
+}

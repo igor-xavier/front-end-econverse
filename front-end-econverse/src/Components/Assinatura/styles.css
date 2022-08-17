@@ -1,0 +1,70 @@
+.assina__div {
+  border-radius: 20px;
+  width: 574px;
+  height: 350px;
+  margin-right: 56px;
+  display: flex;
+  background-color: #fef6e7;
+}
+.bt:hover {
+  cursor: pointer;
+}
+.assina__div:hover {
+  cursor: pointer;
+  background-image: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0),
+    rgba(6, 6, 6, 0.73)
+  );
+}
+.assina__titulo {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 48px;
+  color: #4d4d4d;
+  padding-left: 40px;
+  margin-top: 40px;
+}
+article {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  padding-left: 40px;
+  width: 181px;
+}
+.bt {
+  width: 131px;
+  height: 48px;
+  border-radius: 10px;
+  background-color: #fbb900;
+  color: #4d4d4d;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.08em;
+  border: none;
+  margin-left: 40px;
+  margin-top: 32px;
+}
+
+.bt {
+  width: 131px;
+  height: 48px;
+  border-radius: 10px;
+  background-color: #fbb900;
+  color: white;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.08em;
+  border: none;
+}
+.assina__img {
+  margin-top: -20px;
+}
