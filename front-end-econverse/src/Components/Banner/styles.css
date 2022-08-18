@@ -1,6 +1,7 @@
 .banner {
   background-image: url("./images//bgImg.png");
   background-size: 100%;
+  background-repeat: no-repeat;
   height: 490px;
   color: white;
   display: flex;

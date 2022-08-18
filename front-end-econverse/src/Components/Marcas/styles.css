@@ -1,7 +1,6 @@
 .marcas {
   display: flex;
   justify-content: space-around;
-  margin-left: 56px;
 }
 .marcas__texto {
   margin-left: 56px;
@@ -17,10 +16,8 @@ figure {
   border: 1px solid #e5e5e5;
   box-shadow: 0px 8px 16px rgba(179, 134, 0, 0.12);
   border-radius: 20px;
-}
-.logos {
-  margin-top: 48px;
-  margin-bottom: 48px;
-  margin-left: 47px;
-  margin-right: 47px;
+  margin-left: 20px;
+  width: 98px;
+  height: 100px;
+  padding: 47px;
 }

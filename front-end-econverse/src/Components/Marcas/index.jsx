@@ -23,9 +23,6 @@ function Marcas() {
         <figure>
           <img src={marcas2} alt="logo" className="logos" />
         </figure>
-        <figure>
-          <img src={marcas3} alt="logo" className="logos" />
-        </figure>
       </div>
     </>
   );

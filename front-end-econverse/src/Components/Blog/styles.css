@@ -1,0 +1,40 @@
+h5 {
+  font-weight: 700;
+  font-size: 32px;
+  color: #4d4d4d;
+  line-height: 48px;
+  margin-left: 56px;
+}
+.blog__div {
+  margin-left: 56px;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 56px;
+}
+.blog__cards {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #fef6e7;
+  width: 277px;
+  height: 419px;
+  border-radius: 20px;
+  padding-bottom: 24px;
+}
+.blog__cardsTitle {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  margin-left: 24px;
+  margin-right: 24px;
+  font-family: "Poppins";
+  font-style: normal;
+  color: #4d4d4d;
+}
+.blog__cardsContent {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #9f9f9f;
+  margin-left: 24px;
+}
